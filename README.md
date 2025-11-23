@@ -89,14 +89,14 @@ streamlit run app.py
 ---
 
 ## 💻 Source Code Repository  
-🔗 **GitHub Link:** *[Insert repository link]*
+🔗 **GitHub Link:** [Click here to view the GitHub Repository](https://github.com/username/reponame)
 
 ---
 
 ## 👥 Team Details
 - **Team Name:** CodeForChange  
 - **Team Lead:** Satya Sowmya Palivela  
-- **Team Members:** Divyasruthi Nagireddy, Shanmukha Srivalli Devika  
+- **Team Members:** Divyasruthi Nagireddy, Shanmukha Srivalli Devika Garaga 
 - **Round:** Qualified for Round 2  
 
 ---
