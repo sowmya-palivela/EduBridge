@@ -84,7 +84,7 @@ streamlit run app.py
 ---
 
 ## 📽️ Demo Video  
-🔗 **Video Link:** *[Insert your demo video link here]*
+🔗 **Video Link:** https://drive.google.com/file/d/1qndN5-9zNuZudZ71Oxq-fh7R8T-WNSav/view?usp=sharing
 
 ---
 
