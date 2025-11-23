@@ -89,7 +89,7 @@ streamlit run app.py
 ---
 
 ## 💻 Source Code Repository  
-🔗 **GitHub Link:** [Click here to view the GitHub Repository](https://github.com/username/reponame)
+🔗 **GitHub Link:** https://github.com/sowmya-palivela/EduBridge
 
 ---
 
